@@ -78,34 +78,6 @@ No permissions are used beyond the extension’s single purpose.
 
 ---
 
-## 📦 Project Structure
-
-feedoff-for-youtube/
-│
-├── manifest.json          # Chrome extension configuration (MV3)
-│
-├── content.js             # Main logic: hides feeds, Shorts, UI elements
-│
-├── popup.html             # Extension popup UI
-├── popup.js               # Popup logic (toggles, reload button)
-├── popup.css              # Popup styling
-│
-├── icons/                 # Extension icons
-│   ├── icon16.png
-│   ├── icon32.png
-│   ├── icon48.png
-│   └── icon128.png
-│
-├── PRIVACY.md             # Privacy Policy (Chrome Web Store compliant)
-├── README.md              # Project documentation
-│
-└── LICENSE                # MIT License
-
-
-
-
----
-
 ## 🧩 Single Purpose
 
 FeedOff for YouTube has a single, narrow purpose:  
@@ -124,12 +96,6 @@ Developed and maintained by **NuqtaLab**.
 For support, feedback, or bug reports, please use the support page:  
 👉 https://forms.gle/UkpnJYCuB7Jgy4XC7  
 Or open an issue in this GitHub repository.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
