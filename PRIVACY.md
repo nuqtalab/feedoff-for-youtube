@@ -1,8 +1,8 @@
 # Privacy Policy – FeedOff for YouTube
 
-Last updated: 2026
+**Last updated:** 2026
 
-FeedOff for YouTube is a Chrome extension developed by NuqtaLab to help users reduce distractions on YouTube by hiding feeds, Shorts, recommendations, autoplay, and other non-essential interface elements.
+FeedOff for YouTube is a Chrome extension developed by **NuqtaLab** to help users reduce distractions on YouTube by hiding feeds, Shorts, recommendations, autoplay, and other non-essential interface elements.
 
 Your privacy is very important to us. This Privacy Policy explains how FeedOff for YouTube handles user data.
 
@@ -38,14 +38,15 @@ All settings:
 
 FeedOff for YouTube uses the following permissions:
 
-- **storage**  
-  Used to save user settings locally.
+### storage
+Used to save user settings locally.
 
-- **activeTab**  
-  Used only when the user clicks a button in the extension popup to reload or reapply changes on the currently active YouTube tab.
+### activeTab
+Used only when the user clicks a button in the extension popup to reload or reapply changes on the currently active YouTube tab.
 
-- **Host permission (https://www.youtube.com/*)**  
-  Required to modify YouTube’s interface by hiding distracting elements. The extension does not operate on any other websites.
+### Host Permission
+`https://www.youtube.com/*`  
+Required to modify YouTube’s interface by hiding distracting elements. The extension does not operate on any other websites.
 
 ---
 
@@ -77,7 +78,7 @@ FeedOff for YouTube does not knowingly collect data from children or adults. Sin
 
 You can find FeedOff for YouTube on the Chrome Web Store here:
 
-👉 Chrome Extension Link:  comeing soon...
+https://chromewebstore.google.com/detail/feedoff-for-youtube-%E2%80%93-fee/mamegiaahndhfhhoaleglkkaahcikahk
 
 ---
 
@@ -94,4 +95,4 @@ If you have any questions about this Privacy Policy or the extension, please con
 Support Form:  
 https://forms.gle/UkpnJYCuB7Jgy4XC7
 
-Developer: **NuqtaLab**
+**Developer:** NuqtaLab
