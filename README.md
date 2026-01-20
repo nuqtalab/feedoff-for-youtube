@@ -33,7 +33,7 @@ FeedOff for YouTube is built with privacy in mind.
 All user settings are stored locally using Chrome’s storage API.
 
 Read the full Privacy Policy here:  
-👉 **PRIVACY.md**
+👉 **[PRIVACY.md](PRIVACY.md)**
 
 ---
 
@@ -52,16 +52,19 @@ Perfect for students, professionals, developers, and digital minimalists.
 
 ### From Chrome Web Store
 
+👉 **Install here:**  
+https://chromewebstore.google.com/detail/feedoff-for-youtube-%E2%80%93-fee/mamegiaahndhfhhoaleglkkaahcikahk
+
 1. Open the Chrome Web Store  
-2. Search for **FeedOff for YouTube**  
-3. Click **Add to Chrome**
+2. Click **Add to Chrome**  
+3. Confirm installation  
 
 ---
 
 ## 🧭 How to Use
 
 1. Open YouTube  
-2. Click the FeedOff icon in the toolbar  
+2. Click the **FeedOff** icon in the browser toolbar  
 3. Toggle the features you want to hide  
 4. Reload the page if needed  
 5. Enjoy YouTube without distractions  
@@ -70,9 +73,17 @@ Perfect for students, professionals, developers, and digital minimalists.
 
 ## 🛡️ Permissions Explained
 
-- **storage** – Saves user preferences locally  
-- **activeTab** – Used only when the user clicks a button to reload or reapply changes  
-- **host permission (youtube.com)** – Required to modify YouTube’s interface  
+FeedOff for YouTube uses only the minimum permissions required:
+
+- **storage**  
+  Saves user preferences locally in the browser.
+
+- **activeTab**  
+  Used only when the user clicks a button to reload or reapply changes on the active YouTube tab.
+
+- **host permission (`https://www.youtube.com/*`)**  
+  Required to modify YouTube’s interface.  
+  The extension does not run on any other websites.
 
 No permissions are used beyond the extension’s single purpose.
 
@@ -80,8 +91,9 @@ No permissions are used beyond the extension’s single purpose.
 
 ## 🧩 Single Purpose
 
-FeedOff for YouTube has a single, narrow purpose:  
-**to reduce distractions on YouTube by hiding non-essential UI elements and recommendations.**
+FeedOff for YouTube has a single, narrow purpose:
+
+**To reduce distractions on YouTube by hiding non-essential UI elements and recommendations.**
 
 ---
 
@@ -95,6 +107,7 @@ Developed and maintained by **NuqtaLab**.
 
 For support, feedback, or bug reports, please use the support page:  
 👉 https://forms.gle/UkpnJYCuB7Jgy4XC7  
+
 Or open an issue in this GitHub repository.
 
 ---
@@ -103,4 +116,4 @@ Or open an issue in this GitHub repository.
 
 FeedOff for YouTube is designed to make YouTube work for you — not the algorithm.
 
-If you find this project helpful, feel free to ⭐ star the repository.
+If you find this project helpful, feel free to ⭐ star the repository and share it with others.
